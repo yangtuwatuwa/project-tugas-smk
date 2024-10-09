@@ -1,0 +1,59 @@
+body{
+    background-color: #D2E0FB;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+nav{
+    background-color: #acecff;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-family: monospace;
+}
+
+.hello{
+    gap: 10px;
+    display: flex;
+    margin: 10px;
+}
+
+.logo{
+    margin:10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.hal1{
+    background-color: #7ff9ff;
+    width: 700px;
+    height: 500px;
+    display: flex;
+    justify-content: center ;
+    align-items: center ;
+    flex-direction: column;
+    border-radius: 25px;
+}
+h1{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gambar1{
+    float: right;
+    margin: 10px;
+}
+
+.namaGweh{
+    font-size: 50px;
+}
